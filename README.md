@@ -1,4 +1,4 @@
-<h1 align="center">SNARK and Relation Traits</h1>
+<h1 align="center">Zero-Knowledge Traits</h1>
 
 <p align="center">
     <img src="https://github.com/arkworks-rs/algebra/workflows/CI/badge.svg?branch=master">
